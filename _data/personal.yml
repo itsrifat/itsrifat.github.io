@@ -1,0 +1,41 @@
+---
+  name: "Moinul Hossain"
+  nickname: "Rifat"
+  position: "Graduate Student"
+  dept: "Dept of Computer Science and Engineering"
+  school: "University of Nevada, Reno"
+  city: "Reno"
+  state: "NV"
+  email: "hossain@nevada.unr.edu"
+  gravatar: "http://www.gravatar.com/avatar/fbafd70f6a50015a15bb72fd4c9ae2a7?s=300"
+  social:
+    google:
+      url: "http://plus.google.com/+MoinulHossainRifat/"
+      text: "+Moinul"
+      btnClass: "btn-google"
+      logo: "fa-google"
+    facebook:
+     url: "http://facebook.com/its.rifat"
+     text: "/its.rifat"
+     btnClass: "btn-facebook"
+     logo: "fa-facebook"
+    twitter:
+      url: "http://twitter.com/itsrifat"
+      text: "/itsrifat"
+      btnClass: "btn-twitter"
+      logo: "fa-twitter"
+    linkedin:
+      url: "http://bd.linkedin.com/in/moinulh"
+      text: "/moinulh"
+      btnClass: "btn-linkedin"
+      logo: "fa-linkedin"
+    github:
+      url: "http://github.com/itsrifat"
+      text: "/itsrifat"
+      btnClass: "btn-github"
+      logo: "fa-github"
+    stackoverflow:
+      url: "http://stackoverflow.com/users/741849/rifat"
+      text: "/rifat"
+      btnClass: "btn-stackoverflow"
+      logo: "fa-stack-overflow"
