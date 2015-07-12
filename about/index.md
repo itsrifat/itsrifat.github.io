@@ -5,7 +5,7 @@ subtitle: This page contains meta informations about me
 permalink: /about/
 #published: false
 date: 2015-02-02 13:11
-lastmodified: 2015-02-02 13:11
+lastmodified: 2015-07-12 13:11
 ---
 
 {% comment %}
@@ -84,7 +84,7 @@ lastmodified: 2015-02-02 13:11
   <div class="col-md-6">
     <div class="panel panel-primary">
       <div class="panel-heading">
-        <h3 class="panel-title"> My attempt to cover few of my favourites </h3>
+        <h3 class="panel-title"> Attempt to cover few of my favourites </h3>
       </div>
       <div class="alert">
         Wanted to be a muscian when I was young, but failed miserably! These are the ashes left behind !
