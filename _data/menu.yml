@@ -5,7 +5,7 @@ mainmenu:
     text: ""
     icon_class: "fa-home"
   resume:
-    url: "/resume-moinul-hossain.pdf"
+    url: "/resume_moinul_hossain.pdf"
     text: "Resume"
     icon_class: "fa-file-text"
   about:
