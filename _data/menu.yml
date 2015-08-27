@@ -10,5 +10,5 @@ mainmenu:
     icon_class: "fa-file-text"
   about:
     url: "/about/"
-    text: ""
+    text: "About Me"
     icon_class: "fa-info-circle"
