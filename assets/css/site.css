@@ -69,7 +69,7 @@ opacity:0.9;
 }
 .btn-twitter {
 background-color: #00aced;
-opacity:0.9;
+opacity:0.9; 
 }
 .btn-linkedin {
 background-color:#0e76a8;
@@ -87,6 +87,17 @@ opacity:0.9;
   background-color: #D38B28;
   opacity: 0.9;
 }
+
+.btn-hackerrank{
+  background-color: #27AB5B;
+  opacity: 0.9;
+}
+.btn-soundcloud{
+  background-color: #FF7202;
+  opacity: 0.9;
+}
+
+
 /*Primary navigation bar*/
 
 .navbar .navbar-brand {
