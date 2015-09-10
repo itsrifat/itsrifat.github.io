@@ -35,7 +35,7 @@ lastmodified: 2015-09-10 13:11
   <div class="col-md-6">
     <div class="panel panel-primary ">
           <div class="panel-heading">
-            <h3 class="panel-title">Contact Links</h3>
+            <h3 class="panel-title">Social Links</h3>
           </div>
           <div class="panel-body">
             {% for socialButton in site.data.personal.social %}
