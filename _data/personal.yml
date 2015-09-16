@@ -35,8 +35,8 @@
       btnClass: "btn-github"
       logo: "fa-github"
     stackoverflow:
-      url: "http://stackoverflow.com/users/741849/rifat"
-      text: "/rifat"
+      url: "http://stackoverflow.com/users/741849/moinul-hossain"
+      text: "/moinul-hossain"
       btnClass: "btn-stackoverflow"
       logo: "fa-stack-overflow"
     hackerrank:
