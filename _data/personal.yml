@@ -25,7 +25,7 @@
     #   btnClass: "btn-twitter"
     #   logo: "fa-twitter"
     linkedin:
-      url: "http://bd.linkedin.com/in/moinulh"
+      url: "https://www.linkedin.com/in/moinulh"
       text: "/moinulh"
       btnClass: "btn-linkedin"
       logo: "fa-linkedin"
