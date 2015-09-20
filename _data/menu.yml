@@ -1,14 +1,14 @@
 
 mainmenu:
-  home:
-    url: "/"
-    text: ""
-    icon_class: "fa-home"
+  # home:
+  #   url: "/"
+  #   text: "Home"
+  #   icon_class: "fa-home"
   resume:
     url: "/resume_moinul_hossain.pdf"
     text: "Resume"
-    icon_class: "fa-file-text"
-  about:
-    url: "/about/"
-    text: "About Me"
-    icon_class: "fa-info-circle"
+    icon_class: "fa-file-pdf-o" 
+  # about:
+  #   url: "/about/"
+  #   text: "About Me"
+  #   icon_class: "fa-info-circle"

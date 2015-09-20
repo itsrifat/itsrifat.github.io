@@ -44,9 +44,9 @@
       text: "H /itsrifat"
       btnClass: "btn-hackerrank"
       logo: ""
-    soundcloud:
-      url: "http://soundcloud.com/itsrifat"
-      text: "/itsrifat"
-      btnClass: "btn-soundcloud"
-      logo: "fa-soundcloud"
+    # soundcloud:
+    #   url: "http://soundcloud.com/itsrifat"
+    #   text: "/itsrifat"
+    #   btnClass: "btn-soundcloud"
+    #   logo: "fa-soundcloud"
        

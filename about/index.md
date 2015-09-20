@@ -3,7 +3,7 @@ layout: page
 title: <i class="fa fa-info-circle"></i>
 subtitle: This page contains meta informations about me
 permalink: /about/
-#published: false
+published: false
 date: 2015-02-02 13:11
 lastmodified: 2015-09-10 13:11
 ---
