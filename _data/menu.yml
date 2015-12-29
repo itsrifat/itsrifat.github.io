@@ -4,10 +4,10 @@ mainmenu:
   #   url: "/"
   #   text: "Home"
   #   icon_class: "fa-home"
-  resume:
-    url: "/resume_moinul_hossain.pdf"
-    text: "Resume"
-    icon_class: "fa-file-pdf-o" 
+  #resume:
+  #  url: "/resume_moinul_hossain.pdf"
+  #  text: "Resume"
+  #  icon_class: "fa-file-pdf-o" 
   # about:
   #   url: "/about/"
   #   text: "About Me"
