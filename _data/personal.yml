@@ -2,8 +2,8 @@
   name: "Moinul Hossain"
   nickname: "Rifat"
   position: "Graduate Student"
-  dept: "Dept of Computer Science and Engineering"
-  school: "University of Nevada, Reno"
+  dept: "Dept of CSE"
+  school: "University of Nevada Reno"
   city: "Reno"
   state: "NV"
   email: "hossain@nevada.unr.edu"
@@ -49,4 +49,3 @@
     #   text: "/itsrifat"
     #   btnClass: "btn-soundcloud"
     #   logo: "fa-soundcloud"
-       
