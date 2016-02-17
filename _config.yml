@@ -12,7 +12,7 @@ kramdown:
   input: GFM
 
 #will use clientside prism.js instead
-highlighter: pygments
+highlighter: rouge
 
 
 #Other Global Configuration
