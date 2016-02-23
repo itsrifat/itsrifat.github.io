@@ -26,26 +26,31 @@
     #   logo: "fa-twitter"
     linkedin:
       url: "https://www.linkedin.com/in/moinulh"
-      text: "/moinulh"
+      text: ""
       btnClass: "btn-linkedin"
       logo: "fa-linkedin"
     github:
       url: "http://github.com/itsrifat"
-      text: "/itsrifat"
+      text: ""
       btnClass: "btn-github"
       logo: "fa-github"
     stackoverflow:
       url: "http://stackoverflow.com/users/741849/moinul-hossain"
-      text: "/moinul-hossain"
+      text: ""
       btnClass: "btn-stackoverflow"
       logo: "fa-stack-overflow"
     hackerrank:
       url: "http://hackerrank.com/itsrifat"
-      text: "H /itsrifat"
+      text: "H"
       btnClass: "btn-hackerrank"
       logo: ""
-    # soundcloud:
-    #   url: "http://soundcloud.com/itsrifat"
-    #   text: "/itsrifat"
-    #   btnClass: "btn-soundcloud"
-    #   logo: "fa-soundcloud"
+    soundcloud:
+      url: "http://soundcloud.com/itsrifat"
+      text: ""
+      btnClass: "btn-soundcloud"
+      logo: "fa-soundcloud"
+    codefights:
+      url: "http://codefights.com/profile/itsrifat"
+      text: "CF"
+      btnClass: "btn-soundcloud"
+      logo: "fa-soundcloud"
