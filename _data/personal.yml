@@ -52,5 +52,5 @@
     codefights:
       url: "http://codefights.com/profile/itsrifat"
       text: "CF"
-      btnClass: "btn-soundcloud"
-      logo: "fa-soundcloud"
+      btnClass: "btn-codefights"
+      logo: ""
