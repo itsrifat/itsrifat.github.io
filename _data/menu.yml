@@ -12,7 +12,7 @@ mainmenu:
   #   url: "/about/"
   #   text: "About Me"
   #   icon_class: "fa-info-circle"
-  blog:
-    url: "http://blog.moinulhossain.me"
-    text: "Blog"
-    icon_class: "fa-rss"
+  # blog:
+  #   url: "http://blog.moinulhossain.me"
+  #   text: "Blog"
+  #   icon_class: "fa-rss"
